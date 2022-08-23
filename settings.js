@@ -4,5 +4,5 @@ exports.dbConfig =  {
   password : '12345678',
   database : 'ecomm'
 }
-
+// set the port
 exports.webPort = 3000
